@@ -1,4 +1,4 @@
-<img align="right" width="85" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif"  />
+<img align="right" width="75" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif"  />
 <h1 align="left">〉hi! ➞ i'm tuny and i'm a 3rd year comp-sci student</h1>
 
 ###
