@@ -1,20 +1,13 @@
 <h1 align="left">〉hi! ➞ i'm tuny and i'm a 3rd year comp-sci student</h1>
-
 ###
-
 <br clear="both">
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tunyXO&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tunyXO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
 ###
-
 <h3 align="left">familiar with / currently learning:</h3>
-
 ###
-
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
@@ -42,5 +35,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
-
 ###
