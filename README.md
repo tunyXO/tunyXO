@@ -11,8 +11,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">familiar with / currently learning:</h3>
 
 ###
